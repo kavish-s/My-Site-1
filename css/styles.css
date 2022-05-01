@@ -11,9 +11,9 @@ table {
 }
 
 h1 {
-  font-family: 'Walk Around the Block', sans-serif;
+  /* font-family: 'Walk Around the Block', sans-serif; */
   /* font-family: 'VintageOne', sans-serif; */
-  /* font-family: 'Sacramento', cursive; */
+  font-family: 'Sacramento', cursive;
   font-size: 6rem; /* 16px = 100% = 1em */
   margin: 0 auto 0 auto;
   color: #66BFBF;
