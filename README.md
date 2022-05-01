@@ -1,1 +1,3 @@
-# My-Site-1
+# My-Sit-1
+
+A little more visually appealing 
